@@ -1,0 +1,71 @@
+{
+  "name": "Your Friend",
+  "role": "Software Developer",
+  "bio": "Los Angeles-based dev focused on clean UIs and fast sites.",
+  "email": "friend@example.com",
+  "socials": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/yourfriend",
+      "icon": "fab fa-github"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://linkedin.com/in/yourfriend",
+      "icon": "fab fa-linkedin"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Sample Project",
+      "href": "#",
+      "blurb": "Short one-liner about what this does.",
+      "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "icon": "fas fa-code"
+    }
+  ],
+  "skills": {
+    "Frontend": [
+      {
+        "label": "HTML",
+        "icon": "fab fa-html5"
+      },
+      {
+        "label": "CSS",
+        "icon": "fab fa-css3-alt"
+      },
+      {
+        "label": "JavaScript",
+        "icon": "fab fa-js-square"
+      }
+    ],
+    "Backend": [
+      {
+        "label": "Firebase Auth",
+        "icon": "fas fa-fire"
+      },
+      {
+        "label": "Cloud Firestore",
+        "icon": "fas fa-database"
+      }
+    ],
+    "Tools": [
+      {
+        "label": "Git",
+        "icon": "fab fa-git-alt"
+      },
+      {
+        "label": "GitHub",
+        "icon": "fab fa-github"
+      }
+    ]
+  },
+  "seo": {
+    "title": "Your Friend \u2013 Resume",
+    "description": "Portfolio and resume"
+  }
+}
